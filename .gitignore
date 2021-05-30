@@ -1,0 +1,5 @@
+﻿.vs
+bin
+obj
+Properties/PublishProfiles/FolderProfile.pubxml.user
+ScreenShareAssist.csproj.user
