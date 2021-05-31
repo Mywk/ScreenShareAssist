@@ -2,7 +2,7 @@
 A simple software to help you to stream video and audio to a window.
 You can then share that window through your favorite screen sharing software, like Discord, Zoom, Skype, AnyMeeting and so on.
 
-[More information, demo video and FAQ can be found here.](https://github.com/Mywk)
+[More information, demo video and FAQ can be found here.](https://mywk.net/software/screen-share-assist)
 
 ### Changelog
 
