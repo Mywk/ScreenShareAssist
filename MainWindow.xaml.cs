@@ -865,7 +865,7 @@ namespace ScreenShareAssist
             }
             catch (Exception)
             {
-                ShowError("An error ocurred while attempting to load the last saved settings.");
+                ShowError("An error occurred while attempting to load the last saved settings.");
             }
         }
 
